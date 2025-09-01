@@ -30,14 +30,12 @@ The data model consists of:
 - **BlinkIT Grocery Data**: Item details, fat content, weight, visibility, outlet info.
 - **Metrics Table**: Custom DAX measures for sales and rating KPIs.
 
-![Data Model](./Dashboard-Screenshots/data-model.png)
 
 ---
 
 ## 📊 Dashboard Preview
 Here is the final dashboard view:
 
-![Dashboard](./Dashboard-Screenshots/dashboard-overview.png)
 
 ---
 
