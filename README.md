@@ -1,49 +1,31 @@
-# 📊 Blinkit Sales Dashboard (Power BI)
+Blinkit Order Analysis Dashboard
 
-## 📌 Project Overview
-This project analyzes sales performance and product trends for **Blinkit (India’s Last Minute App)**.  
-The dashboard provides insights into:
-- **Total Sales**: $1.20M
-- **Average Sales per Item**: $141
-- **Number of Items**: 9K
-- **Average Rating**: 4
+1. Project Overview
+This project is a comprehensive business intelligence dashboard created to analyze and visualize Blinkit's order data. The primary objective was to transform raw sales and order data into actionable insights to help stakeholders understand key performance metrics, identify trends, and make data-driven decisions to optimize operations and sales strategies.
 
----
+3. Key Objectives
+- Sales Performance: Track and analyze total sales, average sales, and sales distribution.
+- Customer & Product Insights: Understand customer behavior by analyzing average ratings and popular item types.
+- Operational Efficiency: Evaluate outlet performance and efficiency based on location, size, and type.
+  
+3. Tools and Technologies
+- Power BI: Used for data visualization and dashboard creation.
+- Power Query: Utilized for data cleaning, transformation, and shaping the raw dataset.
+- DAX (Data Analysis Expressions): Employed to create custom measures and calculated columns for advanced analysis.
+- Microsoft Excel: Used for initial data preparation and organization.
+  
+4. Dashboard Features & Insights
+The dashboard provides a holistic view of the business, with interactive visuals that allow for a deep dive into various aspects of the data. Key sections include:
+- Overall Metrics: At-a-glance view of total sales ($1.20M), average sales ($141), number of items sold (9K), and average customer rating (4).
+- Sales Breakdown: Visualizations breaking down total sales by item type (e.g., Fruits, Snacks, Household), fat content, and outlet type (e.g., Grocery Store, Supermarket).
+- Outlet Performance: Detailed analysis of outlet performance based on establishment year, size (Medium, Small, High), and location (Tier 1, Tier 2, Tier 3 cities).
+- Interactive Visuals: The dashboard features interactive charts, including a line chart for outlet establishment trends, pie and bar charts for sales distribution, and a matrix table for detailed metrics by outlet type.
+- Actionable Insights: The dashboard can help in identifying top-performing outlet locations and types, understanding which products are most popular, and pinpointing areas for improvement in sales strategy.
 
-## 🛠 Tools & Technologies
-- **Power BI** (Data Visualization & Dashboarding)
-- **DAX** (Measures & Calculations)
-- **Excel** (Data Source)
+5. Screenshort - 
 
----
-
-## 📑 Key Insights
-- **Top Performing Items**: Fruits & Snacks drive the highest revenue.
-- **Outlet Size & Location**: Tier 3 outlets generate maximum sales (~$472K).
-- **Outlet Type**: Supermarket Type1 contributes the highest sales ($787K).
-- **Customer Ratings**: Average rating across all outlets is **4.0**.
-
----
-
-## 📂 Data Model
-The data model consists of:
-- **BlinkIT Grocery Data**: Item details, fat content, weight, visibility, outlet info.
-- **Metrics Table**: Custom DAX measures for sales and rating KPIs.
-
-
----
-
-## 📊 Dashboard Preview
-Here is the final dashboard view:
-
-
----
-
-## 📜 DAX Measures Used
-Some of the DAX formulas:
-```DAX
-Total Sales = SUM(BlinkIT_Grocery_Data[Sales])
-Average Sales = AVERAGE(BlinkIT_Grocery_Data[Sales])
-No. of Items = COUNT(BlinkIT_Grocery_Data[Item Identifier])
-Average Rating = AVERAGE(BlinkIT_Grocery_Data[Rating])
-
+6. Contact
+Sujit Yadav
+ * Email: yadavsujit977@gmail.com
+ * LinkedIn: www.linkedin.com/in/sujit-yadav-0aa22b291
+Feel free to connect with me to discuss this project or other data analytics opportunities.
