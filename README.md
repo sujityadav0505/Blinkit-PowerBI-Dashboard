@@ -67,6 +67,6 @@ These key metrics provide a quick overview of Blinkit’s operational and financ
 📧 Email: [yadavsujit977@gmail.com](mailto:yadavsujit977@gmail.com)  
 🔗 LinkedIn: [www.linkedin.com/in/sujit-yadav-0aa22b291](https://www.linkedin.com/in/sujit-yadav-0aa22b291)  
 
-*Feel free to connect with me to discuss this project or explore other data analytics opportunities.*  
+
 
 Feel free to connect with me to discuss this project or other data analytics opportunities.
