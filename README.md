@@ -1,31 +1,72 @@
-Blinkit Order Analysis Dashboard
+# Blinkit-Order-Analysis-Dashboard
 
-1. Project Overview
-This project is a comprehensive business intelligence dashboard created to analyze and visualize Blinkit's order data. The primary objective was to transform raw sales and order data into actionable insights to help stakeholders understand key performance metrics, identify trends, and make data-driven decisions to optimize operations and sales strategies.
+## Project Overview
+This project presents a **business intelligence dashboard** designed to analyze and visualize Blinkit’s order and sales data.  
+The dashboard provides a single source of truth for sales performance, customer behavior, and outlet efficiency, enabling stakeholders to make **data-driven business decisions**.  
+It highlights **overall revenue trends, product-level performance, and outlet characteristics** such as type, size, and location, ensuring a holistic view of the business.  
 
-3. Key Objectives
-- Sales Performance: Track and analyze total sales, average sales, and sales distribution.
-- Customer & Product Insights: Understand customer behavior by analyzing average ratings and popular item types.
-- Operational Efficiency: Evaluate outlet performance and efficiency based on location, size, and type.
-  
-3. Tools and Technologies
-- Power BI: Used for data visualization and dashboard creation.
-- Power Query: Utilized for data cleaning, transformation, and shaping the raw dataset.
-- DAX (Data Analysis Expressions): Employed to create custom measures and calculated columns for advanced analysis.
-- Microsoft Excel: Used for initial data preparation and organization.
-  
-4. Dashboard Features & Insights
-The dashboard provides a holistic view of the business, with interactive visuals that allow for a deep dive into various aspects of the data. Key sections include:
-- Overall Metrics: At-a-glance view of total sales ($1.20M), average sales ($141), number of items sold (9K), and average customer rating (4).
-- Sales Breakdown: Visualizations breaking down total sales by item type (e.g., Fruits, Snacks, Household), fat content, and outlet type (e.g., Grocery Store, Supermarket).
-- Outlet Performance: Detailed analysis of outlet performance based on establishment year, size (Medium, Small, High), and location (Tier 1, Tier 2, Tier 3 cities).
-- Interactive Visuals: The dashboard features interactive charts, including a line chart for outlet establishment trends, pie and bar charts for sales distribution, and a matrix table for detailed metrics by outlet type.
-- Actionable Insights: The dashboard can help in identifying top-performing outlet locations and types, understanding which products are most popular, and pinpointing areas for improvement in sales strategy.
+---
 
-5. Screenshort - 
+## Key Objectives
+- **Sales Performance**: Track total sales, average sales, and number of items sold to measure overall financial performance.  
+- **Customer & Product Insights**: Analyze customer satisfaction through average ratings and identify product categories driving revenue.  
+- **Operational Efficiency**: Evaluate outlet performance across establishment year, type, size, and geographic location to identify efficiency levels and market trends.  
 
-6. Contact
-Sujit Yadav
- * Email: yadavsujit977@gmail.com
- * LinkedIn: www.linkedin.com/in/sujit-yadav-0aa22b291
+---
+
+## Tools and Technologies
+- **Power BI** → Used for interactive dashboard creation and data visualization.  
+- **Power Query** → For cleaning, transforming, and preparing raw data for analysis.  
+- **DAX (Data Analysis Expressions)** → To create calculated measures, KPIs, and advanced analysis.  
+- **Microsoft Excel** → For initial data preparation and exploratory analysis.  
+
+---
+
+## Dashboard Insights & Impact
+
+**Overall Metrics**  
+- Total Sales: **$1.20M**  
+- Average Sales: **$141**  
+- Number of Items Sold: **9K+**  
+- Average Rating: **4**  
+
+These key metrics provide a quick overview of Blinkit’s operational and financial performance.  
+
+**Sales Breakdown by Product**  
+- Highest sales come from **Snack Foods ($0.18M)** and **Fruits & Vegetables ($0.18M)**, followed by **Household ($0.14M)** and **Frozen Foods ($0.12M)**.  
+- Categories like **Seafood ($0.01M)** and **Breakfast ($0.02M)** show minimal contribution, signaling potential areas of low demand or underperformance.  
+- Fat content analysis shows **Regular products ($0.77M)** outperform **Low Fat products ($0.42M)**.  
+
+**Outlet Performance**  
+- **Outlet Size**: Medium-sized outlets generate the highest sales (**$507.9K**), followed by High (**$444.8K**) and Small (**$248.9K**).  
+- **Outlet Type**:  
+  - Supermarket Type 1 leads with **$787.6K** in sales and **577 items**.  
+  - Grocery Stores contribute **$151.9K** with the highest item count (**1083 items**).  
+  - Supermarket Types 2 and 3 each contribute about **$130K**.  
+- **Outlet Location**: Tier 3 cities perform best (**$472.1K**), followed by Tier 2 (**$393.1K**) and Tier 1 (**$336.4K**).  
+
+**Trends & Interactive Analysis**  
+- Outlet establishment peaked around **2018–2019 ($205K)**, showing expansion momentum.  
+- Line charts, bar charts, and pie charts allow slicing the data by outlet type, size, and product segment for deeper insights.  
+
+**Actionable Insights**  
+- Focus marketing on **Tier 3 cities and medium-sized outlets**, which generate the highest sales.  
+- Snack Foods and Fruits & Vegetables are **top revenue drivers**, while low-performing categories (e.g., Seafood, Breakfast) need review for optimization.  
+- Although Grocery Stores sell the **most items (1083)**, Supermarket Type 1 dominates revenue, suggesting higher-value purchases in larger outlets.  
+- Customer ratings remain stable at **4 across outlet types**, indicating consistent satisfaction but room for improvement.  
+
+---
+
+## Screenshots
+![Blinkit Dashboard](https://github.com/yourusername/blinkit-order-analysis-dashboard/blob/main/Blinkit%20Dashboard.png)  
+
+---
+
+## Contact
+**Sujit Yadav**  
+📧 Email: [yadavsujit977@gmail.com](mailto:yadavsujit977@gmail.com)  
+🔗 LinkedIn: [www.linkedin.com/in/sujit-yadav-0aa22b291](https://www.linkedin.com/in/sujit-yadav-0aa22b291)  
+
+*Feel free to connect with me to discuss this project or explore other data analytics opportunities.*  
+
 Feel free to connect with me to discuss this project or other data analytics opportunities.
