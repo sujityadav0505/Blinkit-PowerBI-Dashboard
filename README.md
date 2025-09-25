@@ -32,10 +32,12 @@ It highlights **overall revenue trends, product-level performance, and outlet ch
 
 These key metrics provide a quick overview of Blinkit’s operational and financial performance.  
 
+
 **Sales Breakdown by Product**  
 - Highest sales come from **Snack Foods ($0.18M)** and **Fruits & Vegetables ($0.18M)**, followed by **Household ($0.14M)** and **Frozen Foods ($0.12M)**.  
 - Categories like **Seafood ($0.01M)** and **Breakfast ($0.02M)** show minimal contribution, signaling potential areas of low demand or underperformance.  
-- Fat content analysis shows **Regular products ($0.77M)** outperform **Low Fat products ($0.42M)**.  
+- Fat content analysis shows **Regular products ($0.77M)** outperform **Low Fat products ($0.42M)**. 
+
 
 **Outlet Performance**  
 - **Outlet Size**: Medium-sized outlets generate the highest sales (**$507.9K**), followed by High (**$444.8K**) and Small (**$248.9K**).  
@@ -43,11 +45,13 @@ These key metrics provide a quick overview of Blinkit’s operational and financ
   - Supermarket Type 1 leads with **$787.6K** in sales and **577 items**.  
   - Grocery Stores contribute **$151.9K** with the highest item count (**1083 items**).  
   - Supermarket Types 2 and 3 each contribute about **$130K**.  
-- **Outlet Location**: Tier 3 cities perform best (**$472.1K**), followed by Tier 2 (**$393.1K**) and Tier 1 (**$336.4K**).  
+- **Outlet Location**: Tier 3 cities perform best (**$472.1K**), followed by Tier 2 (**$393.1K**) and Tier 1 (**$336.4K**).
+    
 
 **Trends & Interactive Analysis**  
 - Outlet establishment peaked around **2018–2019 ($205K)**, showing expansion momentum.  
-- Line charts, bar charts, and pie charts allow slicing the data by outlet type, size, and product segment for deeper insights.  
+- Line charts, bar charts, and pie charts allow slicing the data by outlet type, size, and product segment for deeper insights.
+  
 
 **Actionable Insights**  
 - Focus marketing on **Tier 3 cities and medium-sized outlets**, which generate the highest sales.  
