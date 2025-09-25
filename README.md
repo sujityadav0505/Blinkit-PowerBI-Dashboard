@@ -58,7 +58,7 @@ These key metrics provide a quick overview of Blinkit’s operational and financ
 ---
 
 ## Screenshots
-![Blinkit Dashboard](https://github.com/yourusername/blinkit-order-analysis-dashboard/blob/main/Blinkit%20Dashboard.png)  
+[![Blinkit Dashboard](https://github.com/yourusername/blinkit-order-analysis-dashboard/blob/main/Blinkit%20Dashboard.png) ](https://github.com/sujityadav0505/Blinkit-PowerBI-Dashboard/blob/main/Blinkit%20Dashboard.png) 
 
 ---
 
